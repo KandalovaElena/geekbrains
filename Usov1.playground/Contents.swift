@@ -40,7 +40,7 @@ var d1 = 2 * (c1 + 1) * (c1 + 1) + 3 * (c2 + 1)
 
 let length = 57
 print("Площадь квадрата с длинной стороны \(length) равна \(length * length)")
-
+print("Файл добавлен в GIT")
 
 
 
