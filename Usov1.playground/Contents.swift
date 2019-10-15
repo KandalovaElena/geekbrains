@@ -42,6 +42,7 @@ let length = 57
 print("Площадь квадрата с длинной стороны \(length) равна \(length * length)")
 print("Файл добавлен в GIT")
 //внесли изменения
+print("finish")
 
 
 
