@@ -64,3 +64,4 @@ myCorteg = yourCorteg
 yourCorteg = helpCorteg
 let newCorteg = (myCorteg.number, yourCorteg.number, yourCorteg.number - myCorteg.number )
 print(newCorteg)
+print("внесли изменения в Usov2")
