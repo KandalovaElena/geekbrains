@@ -45,7 +45,9 @@ print("Файл добавлен в GIT")
 print("finish")
 print("новые изменения внесены")
 print("создали вторую ветку с файлом Usov2")
+
 print("создали новую ветку с future")
 print("вносим изменения в ветку feature usov1")
 
+print("Вносим изменения в master Usov1")
 
